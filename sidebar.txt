@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdg:home|Door43 (cdg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdg|d43-cdg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdg/archive/master.zip|d43-cdg.zip]]
+
+**Recent Changes**
+{{changes>ns = cdg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdg|Ethnologue data]]
+
